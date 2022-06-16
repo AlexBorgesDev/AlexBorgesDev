@@ -69,11 +69,11 @@
 
 ----
 
-<a href="https://github.com/AlexBorgesDev/github-readme-stats" target="_blank">
+<a href="https://github.com/AlexBorgesDev/" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AlexBorgesDev&theme=dracula&hide=html&layout=compact" />
 </a>
 
-<a href="https://github.com/AlexBorgesDev/github-readme-stats" target="_blank">
+<a href="https://github.com/AlexBorgesDev/" target="_blank">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexBorgesDev&theme=dracula&show_icons=true" />
 </a>
 
