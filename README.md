@@ -41,6 +41,7 @@
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="Nest"/>&nbsp;
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" alt="Electron"/>&nbsp;
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass"/>&nbsp;
+  <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind"/>&nbsp;
   <img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" alt="Jest"/>&nbsp;
   <img height="32" src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="Puppeteer" />&nbsp;
 </p>
