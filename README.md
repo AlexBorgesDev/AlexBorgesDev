@@ -4,7 +4,7 @@
 
 🌱 I'm currently learning the Dart language and the Flutter framework.
 
-💬 I like technology, programming, football, games (like Rocket League), series, anime and others.
+💬 I like technology, programming, football (soccer), games (like Rocket League), series, anime and others.
 
 ----
 
